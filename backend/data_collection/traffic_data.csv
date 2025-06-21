@@ -1,0 +1,175 @@
+route,distance_km,travel_time_mins,traffic_delay_mins,timestamp
+India Gate → Connaught Place,2.87,8.27,0,5/8/2025 12:05
+Noida Sec 18 → Gurgaon Cyber Hub,30.82,56.88,0,5/8/2025 12:05
+IGI Airport → Rajiv Chowk,18.39,37.58,0,5/8/2025 12:05
+Akshardham → Hauz Khas,17.12,36.68,0,5/8/2025 12:05
+Ghaziabad → DLF Cyber City,54.49,87.63,0,5/8/2025 12:05
+Bhopal → Indore,193.34,201.58,0,5/8/2025 12:05
+Jabalpur → Katni,107.52,131.3,0,5/8/2025 12:05
+Gwalior → Jhansi,102.54,102.28,0,5/8/2025 12:05
+Ujjain → Dewas,37.77,51.8,1.25,5/8/2025 12:05
+Sagar → Bhopal,168.86,176.1,0.98,5/8/2025 12:05
+Gateway of India → Bandra,20.69,37.75,0,5/8/2025 12:05
+CST → Thane,38.21,52.73,0,5/8/2025 12:05
+Navi Mumbai → Andheri,31.31,53.37,0,5/8/2025 12:05
+Borivali → Colaba,43.84,77.2,2.4,5/8/2025 12:05
+Juhu → Powai,14.26,41.23,0.22,5/8/2025 12:05
+Kempegowda Airport → MG Road,36.38,60.92,2.98,5/8/2025 12:05
+Whitefield → Electronic City,28.68,59.05,5.08,5/8/2025 12:05
+Yeshwantpur → Marathahalli,26.51,67.48,1.72,5/8/2025 12:05
+KR Puram → Banashankari,18.65,69.05,10.55,5/8/2025 12:05
+Indiranagar → Hebbal,14.37,47.87,0,5/8/2025 12:05
+Charminar → Hitech City,18.1,51.03,0,5/8/2025 12:05
+Secunderabad → Gachibowli,19.93,49.5,1.23,5/8/2025 12:05
+LB Nagar → Madhapur,31.39,76.15,0,5/8/2025 12:05
+Banjara Hills → Koti,7.96,25.72,0,5/8/2025 12:05
+Uppal → Jubilee Hills,21.07,56.3,3.67,5/8/2025 12:05
+Airport → Esplanade,19.75,65.97,0,5/8/2025 12:05
+Chennai Airport → Marina Beach,18.18,51.98,7.87,5/8/2025 12:05
+T Nagar → Velachery,10.14,32.15,5.5,5/8/2025 12:05
+Jaipur Junction → Amer Fort,13.25,43.42,0,5/8/2025 12:05
+JLN Marg → Malviya Nagar,3.3,8.05,0,5/8/2025 12:05
+SG Highway → Maninagar,15.66,40.2,0,5/8/2025 12:05
+Sabarmati → Kalupur,7.33,18.18,0,5/8/2025 12:05
+Shivajinagar → Hinjewadi,18.07,39.65,0,5/8/2025 12:05
+Hadapsar → Kothrud,15.28,46.82,0,5/8/2025 12:05
+India Gate → Connaught Place,2.87,8.23,0,5/8/2025 12:21
+Noida Sec 18 → Gurgaon Cyber Hub,30.82,55.4,0.55,5/8/2025 12:21
+IGI Airport → Rajiv Chowk,18.47,37.75,0,5/8/2025 12:21
+Akshardham → Hauz Khas,17.12,36.33,0,5/8/2025 12:21
+Ghaziabad → DLF Cyber City,54.32,86.3,0,5/8/2025 12:21
+Bhopal → Indore,193.34,202.68,0.97,5/8/2025 12:21
+Jabalpur → Katni,107.52,131.3,0,5/8/2025 12:21
+Gwalior → Jhansi,102.54,102.18,0,5/8/2025 12:21
+Ujjain → Dewas,37.77,51.47,0.98,5/8/2025 12:21
+Sagar → Bhopal,168.86,176,0.75,5/8/2025 12:21
+Gateway of India → Bandra,20.69,37.13,0,5/8/2025 12:21
+CST → Thane,38.21,52.38,0,5/8/2025 12:21
+Navi Mumbai → Andheri,31.31,52.23,0,5/8/2025 12:21
+Borivali → Colaba,43.84,72.88,0,5/8/2025 12:21
+Juhu → Powai,14.16,39.98,0,5/8/2025 12:21
+Kempegowda Airport → MG Road,36.38,60.7,2.98,5/8/2025 12:21
+Whitefield → Electronic City,28.68,58.13,3.53,5/8/2025 12:21
+Yeshwantpur → Marathahalli,22.77,69.72,0.68,5/8/2025 12:21
+KR Puram → Banashankari,18.65,65.6,7.23,5/8/2025 12:21
+Indiranagar → Hebbal,14.34,48.15,0,5/8/2025 12:21
+Charminar → Hitech City,18.1,50.73,0,5/8/2025 12:21
+Secunderabad → Gachibowli,19.93,49.55,2.4,5/8/2025 12:21
+LB Nagar → Madhapur,31.39,75.27,0,5/8/2025 12:21
+Banjara Hills → Koti,8.27,24.47,0,5/8/2025 12:21
+Uppal → Jubilee Hills,21.62,55.3,0,5/8/2025 12:21
+Howrah → Park Street,13.87,42.62,3.42,5/8/2025 12:21
+Airport → Esplanade,19.75,65.63,0,5/8/2025 12:21
+Chennai Airport → Marina Beach,17.12,48.12,2.88,5/8/2025 12:21
+T Nagar → Velachery,10.14,29.02,2.43,5/8/2025 12:21
+Jaipur Junction → Amer Fort,13.25,43.43,0,5/8/2025 12:21
+JLN Marg → Malviya Nagar,3.3,8.03,0,5/8/2025 12:21
+SG Highway → Maninagar,16.03,41.33,0,5/8/2025 12:21
+Sabarmati → Kalupur,7.33,18.17,0,5/8/2025 12:21
+Shivajinagar → Hinjewadi,18.07,39.33,0,5/8/2025 12:21
+Hadapsar → Kothrud,15.63,46.27,0,5/8/2025 12:21
+India Gate → Connaught Place,2.87,8.2,0,5/8/2025 12:36
+Noida Sec 18 → Gurgaon Cyber Hub,32.18,53.35,0,5/8/2025 12:36
+IGI Airport → Rajiv Chowk,18.47,37.28,0,5/8/2025 12:36
+Akshardham → Hauz Khas,17.12,35.9,0,5/8/2025 12:36
+Ghaziabad → DLF Cyber City,54.49,83.43,0,5/8/2025 12:36
+Bhopal → Indore,193.34,200.73,1.28,5/8/2025 12:36
+Jabalpur → Katni,107.52,127.12,0,5/8/2025 12:36
+Gwalior → Jhansi,102.54,101.23,0,5/8/2025 12:36
+Ujjain → Dewas,37.77,50.18,0,5/8/2025 12:36
+Sagar → Bhopal,168.86,173.77,0,5/8/2025 12:36
+Gateway of India → Bandra,20.69,37.23,0,5/8/2025 12:36
+CST → Thane,38.21,56.68,3.75,5/8/2025 12:36
+Navi Mumbai → Andheri,31.31,51.83,0,5/8/2025 12:36
+Borivali → Colaba,43.84,73.45,0,5/8/2025 12:36
+Juhu → Powai,14.16,38.67,0,5/8/2025 12:36
+Kempegowda Airport → MG Road,36.38,56.22,0,5/8/2025 12:36
+Whitefield → Electronic City,28.68,56.72,3.43,5/8/2025 12:36
+Yeshwantpur → Marathahalli,23.12,68.72,0.88,5/8/2025 12:36
+KR Puram → Banashankari,18.66,69.77,12,5/8/2025 12:36
+Indiranagar → Hebbal,14.39,48.6,2.23,5/8/2025 12:36
+Charminar → Hitech City,19.07,48.05,0,5/8/2025 12:36
+Secunderabad → Gachibowli,19.93,47.27,0.97,5/8/2025 12:36
+LB Nagar → Madhapur,31.39,72.57,0,5/8/2025 12:36
+Banjara Hills → Koti,7.22,25.78,2.05,5/8/2025 12:36
+Uppal → Jubilee Hills,21.49,53.78,3.22,5/8/2025 12:36
+Howrah → Park Street,12.61,32.17,2.83,5/8/2025 12:36
+Airport → Esplanade,19.75,62.9,0,5/8/2025 12:36
+Chennai Airport → Marina Beach,18.06,49.85,0,5/8/2025 12:36
+T Nagar → Velachery,10.14,27.02,0.67,5/8/2025 12:36
+Jaipur Junction → Amer Fort,14.32,42.3,0,5/8/2025 12:36
+JLN Marg → Malviya Nagar,3.3,8.13,0,5/8/2025 12:36
+SG Highway → Maninagar,15.76,38.07,0,5/8/2025 12:36
+Sabarmati → Kalupur,7.33,17.77,0,5/8/2025 12:36
+Shivajinagar → Hinjewadi,18.07,39.1,0,5/8/2025 12:36
+Hadapsar → Kothrud,15.63,45.63,0,5/8/2025 12:36
+India Gate → Connaught Place,2.87,8.03,0,5/8/2025 12:52
+Noida Sec 18 → Gurgaon Cyber Hub,32.18,53.67,0,5/8/2025 12:52
+IGI Airport → Rajiv Chowk,18.39,37.05,0,5/8/2025 12:52
+Akshardham → Hauz Khas,17.12,35.83,0,5/8/2025 12:52
+Ghaziabad → DLF Cyber City,54.49,83.78,0,5/8/2025 12:52
+Bhopal → Indore,193.34,200,0,5/8/2025 12:52
+Jabalpur → Katni,107.52,127.17,0,5/8/2025 12:52
+Gwalior → Jhansi,102.54,101.23,0,5/8/2025 12:52
+Ujjain → Dewas,37.77,50.5,0.98,5/8/2025 12:52
+Sagar → Bhopal,168.86,175.1,1.45,5/8/2025 12:52
+Gateway of India → Bandra,21.52,38.17,0,5/8/2025 12:52
+CST → Thane,38.21,51.95,0,5/8/2025 12:52
+Navi Mumbai → Andheri,31.31,51.42,0,5/8/2025 12:52
+Borivali → Colaba,43.84,72.68,0,5/8/2025 12:52
+Juhu → Powai,14.16,38.15,0,5/8/2025 12:52
+Kempegowda Airport → MG Road,36.38,55.78,0,5/8/2025 12:52
+Whitefield → Electronic City,28.68,58.68,6.43,5/8/2025 12:52
+Yeshwantpur → Marathahalli,26.5,64.72,1.85,5/8/2025 12:52
+KR Puram → Banashankari,18.66,73.1,16.78,5/8/2025 12:52
+Indiranagar → Hebbal,14.39,47.45,1.35,5/8/2025 12:52
+Charminar → Hitech City,19.07,47.75,0,5/8/2025 12:52
+Secunderabad → Gachibowli,19.93,47.98,3.4,5/8/2025 12:52
+LB Nagar → Madhapur,31.39,71.93,0,5/8/2025 12:52
+Banjara Hills → Koti,7.22,23.97,0,5/8/2025 12:52
+Uppal → Jubilee Hills,22.16,53.1,0.35,5/8/2025 12:52
+Howrah → Park Street,12.61,32.42,3.03,5/8/2025 12:52
+Airport → Esplanade,19.75,62.33,0,5/8/2025 12:52
+Chennai Airport → Marina Beach,18.18,42.3,0,5/8/2025 12:52
+T Nagar → Velachery,10.14,26.28,0,5/8/2025 12:52
+Jaipur Junction → Amer Fort,14.5,42.92,0.02,5/8/2025 12:52
+JLN Marg → Malviya Nagar,3.3,8.12,0,5/8/2025 12:52
+SG Highway → Maninagar,15.76,37.68,0,5/8/2025 12:52
+Sabarmati → Kalupur,7.33,17.68,0,5/8/2025 12:52
+Shivajinagar → Hinjewadi,18.07,38.68,0,5/8/2025 12:52
+Hadapsar → Kothrud,15.68,44.4,1.57,5/8/2025 12:52
+India Gate → Connaught Place,2.87,8.65,0,5/8/2025 15:20
+Noida Sec 18 → Gurgaon Cyber Hub,32.23,53.55,0,5/8/2025 15:20
+IGI Airport → Rajiv Chowk,19.91,39.05,0,5/8/2025 15:20
+Akshardham → Hauz Khas,17.12,35.68,0,5/8/2025 15:20
+Ghaziabad → DLF Cyber City,54.32,88.1,0,5/8/2025 15:20
+Bhopal → Indore,193.34,204.93,0,5/8/2025 15:20
+Jabalpur → Katni,109.73,128.33,0,5/8/2025 15:20
+Gwalior → Jhansi,102.54,103.02,0,5/8/2025 15:20
+Ujjain → Dewas,40.65,49.25,0,5/8/2025 15:20
+Sagar → Bhopal,168.86,179.42,0,5/8/2025 15:20
+Gateway of India → Bandra,20.69,40.8,0,5/8/2025 15:20
+CST → Thane,38.4,58.4,0.4,5/8/2025 15:20
+Navi Mumbai → Andheri,31.32,58.25,3.38,5/8/2025 15:20
+Borivali → Colaba,43.86,73.27,1.32,5/8/2025 15:20
+Juhu → Powai,14.16,37.68,0,5/8/2025 15:20
+Kempegowda Airport → MG Road,36.38,58.72,0,5/8/2025 15:20
+Whitefield → Electronic City,28.67,57.83,0,5/8/2025 15:20
+Yeshwantpur → Marathahalli,26.52,63.05,1.02,5/8/2025 15:20
+KR Puram → Banashankari,18.92,60.62,0.23,5/8/2025 15:20
+Indiranagar → Hebbal,14.57,50.75,0,5/8/2025 15:20
+Charminar → Hitech City,19.07,49.53,0,5/8/2025 15:20
+Secunderabad → Gachibowli,19.96,48.75,2.67,5/8/2025 15:20
+LB Nagar → Madhapur,31.39,69.75,0,5/8/2025 15:20
+Banjara Hills → Koti,7.22,24.42,0,5/8/2025 15:20
+Uppal → Jubilee Hills,21.62,49.6,0,5/8/2025 15:20
+Howrah → Park Street,12.61,28.63,0,5/8/2025 15:20
+Airport → Esplanade,19.03,60,0,5/8/2025 15:20
+Chennai Airport → Marina Beach,18.18,40.92,0,5/8/2025 15:20
+T Nagar → Velachery,11.55,27.83,0,5/8/2025 15:20
+Jaipur Junction → Amer Fort,13.41,43.28,0,5/8/2025 15:20
+JLN Marg → Malviya Nagar,3.3,7.85,0,5/8/2025 15:20
+SG Highway → Maninagar,15.76,35.73,0,5/8/2025 15:20
+Sabarmati → Kalupur,7.41,17.02,0,5/8/2025 15:20
+Shivajinagar → Hinjewadi,18.07,37.43,0,5/8/2025 15:20
+Hadapsar → Kothrud,15.68,39.1,0,5/8/2025 15:20
