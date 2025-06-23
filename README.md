@@ -66,5 +66,8 @@ CityPulse is a smart city project powered by AI and Machine Learning that predic
 
 ## **Flowchart**
 
+![architecture](https://github.com/user-attachments/assets/5fb4099f-fab3-48cb-9b3c-445a3ac555bb)
+
+
 
 
